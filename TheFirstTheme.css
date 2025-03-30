@@ -1,0 +1,11 @@
+/**
+* @name CapCap
+* @author CapCap
+* @version 0.1
+* @description chỗ để t phá
+*/
+
+:root {
+	--theme-background-image: url(https://i.pinimg.com/736x/61/f9/eb/61f9ebf9301458c911b452d6bf966feb.jpg);
+	--background-tertiary: #333333;
+}
