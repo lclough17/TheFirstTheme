@@ -1,12 +1,15 @@
-/**
-* @name CapCap
-* @author CapCap
-* @version 0.1
-* @description chỗ để t phá
-*/
 .visual-refresh {
   .appMount__51fd7 {
     background: transparent;
     background-image: var(--theme-background-image);
     background-size: cover;
   }
+}
+ 
+  
+.listItemWrapper__91816 .wrapper_cc5dd2 .wrapper__6e9f8 .childWrapper__6e9f8.childWrapperNoHoverBg__6e9f8 {
+    background-image: var(--home-icon-image);
+    background-size: var(--home-icon-image-zoom);
+    background-position: var(--home-icon-image-position);
+    background-repeat: no-repeat;
+}
