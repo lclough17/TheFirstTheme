@@ -1,0 +1,12 @@
+/**
+* @name CapCap
+* @author CapCap
+* @version 0.1
+* @description chỗ để t phá
+*/
+.visual-refresh {
+  .appMount__51fd7 {
+    background: transparent;
+    background-image: var(--theme-background-image);
+    background-size: cover;
+  }
