@@ -4,9 +4,46 @@
 * @version 0.1
 * @description chỗ để t phá
 */
-
 @import url("https://lclough17.github.io/TheFirstTheme/TheFirstTheme.css")
+
+
+.searchBar__35e86 {
+	background-color: #667257;
+}
+/* Left side bar */
+.content__99f8c {
+	background-image: var(--side-background-image);	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+}
+
+.interactive__972a0, .headerText__99e7c {
+	color: #faf8f1;
+}
+.childWrapper__6e9f8 {
+	background-image: url(https://i.pinimg.com/736x/a0/25/47/a025470793d4aa7aa98d211432a5ff0b.jpg);
+}
+
+.bg_960e4 {
+	background: var(--theme-transparency);
+}
+/* Main theme */
+.visual-refresh {
+	.appMount__51fd7 {
+		background: transparent;
+		background-attachment: fixed;
+		background-image: var(--theme-background-image);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+	}
+}
+
 :root {
-	--theme-background-image: url(https://i.pinimg.com/736x/61/f9/eb/61f9ebf9301458c911b452d6bf966feb.jpg);
-	--background-tertiary: #333333;
+	--side-background-image: linear-gradient(rgba(0, 0, 0, 2), rgba(0, 0, 0, 0.3)), url(https://i.pinimg.com/736x/3d/14/0b/3d140b6792e1c877f16d37ed45fc9fec.jpg);
+	
+	--theme-background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://i.pinimg.com/736x/0a/20/fc/0a20fcc7bfacc5a20151f9e791e6b0f8.jpg);
+	
+	
 }
